@@ -22,9 +22,6 @@ const map =
     }))
   }
 
-// Your `map` function has to run every element in the `coll` through `iteratee`
-// When all elements are called, the result should be an array sent to `callback`
-
 const a1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 const a2 = [1, 2, 3, 0, 4, 5]
 
